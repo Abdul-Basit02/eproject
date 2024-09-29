@@ -1,0 +1,63 @@
+
+  
+    .utban{
+        height:600px;
+        background-image: url(download.jfif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        animation-name: aptech;
+        animation-duration: 10s;
+        animation-timing-function: linear;
+        position: relative;
+        animation-iteration-count: infinite;
+        position: relative;
+        }
+        @keyframes aptech{
+          0%{
+            background-image: url(istock-000021689467-small-111e9a0cd9403b2c197541c4757ea0a4.webp);
+              
+          }
+          50%{
+              background-image: url(istockphoto-117751351-612x612.jpg);
+              
+          }
+          100%{
+               background-image: url(pexels-pixabay-220762.jpg);
+          }
+        }
+        .text{
+          position: absolute;
+          top: 32%;
+          left: 17%;
+          font-family:Nexa;
+          font-size: xx-large;
+          color: #fff;
+          font-size: 400%;
+        }
+        .utban2{
+         
+          /* height:300px; */
+          margin-top:50px;
+          margin-bottom: 20px;
+          left: 0;
+          right: 0;
+          
+        }
+        .utban3{
+          /* height:300px; */
+          margin-top:50px;
+          margin-bottom: 20px;
+          left: 0;
+          right: 0;
+        }
+        .text2{
+          position: absolute;
+          top: 42%;
+          left: 19%;
+          font-family:Nexa;
+          font-size: xx-large;
+          color: #fff;
+          font-size: 400%;
+        }
+        
+        
